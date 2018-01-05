@@ -9,6 +9,7 @@ import java.lang.reflect.Method;
 public class Client {
 
   public static void main(String[] args) {
+    //这个名字的包必须和当前一致。。。
     String name = "hw.CustomerClassLoader.Store";
     String host = "127.0.0.1";
     int port = 8888;
